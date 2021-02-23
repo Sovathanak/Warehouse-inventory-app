@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Warehouse Inventory App</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+
+    <string name="clear_items">Clear Fields</string>
+    <string name="add_item">Add Item</string>
+
+    <string name="item_name">Item Name</string>
+
+    <string name="add_an_item">Add Item</string>
+    <string name="clear_all_items">Clear Fields</string>
+
+    <string name="add_item_options">Add Item</string>
+    <string name="clear_all_items_options">"Clear Fields"</string>
+    <string name="list_all_items">List All Items</string>
+    <string name="log_out">Log out of Session</string>
+</resources>
